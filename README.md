@@ -62,6 +62,10 @@ Follow these steps to get the application running on your local machine.
 
     Open `http://localhost:5173` in your browser to view the app.
 
+## Documentation
+
+For a detailed look at the project's architecture, data models, and directory structure, please refer to [ARCHITECTURE.md](./ARCHITECTURE.md).
+
 ## Project Structure
 
 - `src/appwrite`: Appwrite configuration and service setup.
